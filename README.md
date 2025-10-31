@@ -12,8 +12,10 @@ This project showcases a complete Junior Data Analyst workflow, from raw data pr
 - CEO Presentation: A PowerPoint deck summarizing methodology, key insights, and actionable recommendations (e.g., targeted marketing campaigns, stocking adjustments).
 
 ## Tools Used
-- Data Processing: Microsoft SQL Server (for cleaning, aggregation, and feature engineering).
+- Data Processing: SnowFlake.
 
 - Visualization: Microsoft Excel/Power BI (for dashboard creation).
 
 - Reporting: Microsoft PowerPoint (for executive briefing).
+
+- Planning: Miro
