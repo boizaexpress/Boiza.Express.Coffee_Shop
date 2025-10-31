@@ -1,2 +1,19 @@
 # Boiza.Express.Coffee_Shop
-Driving Revenue Growth: A data analysis project using historical sales data to provide actionable insights and strategic recommendations to the new CEO of Boiza.Express.Coffee_Shop. The analysis identifies top-performing products, peak sales times, and strategies for improving product performance.
+
+## Boiza.Express.Coffee_Shop Sales Analysis: CEO Insight Briefing
+
+This project showcases a complete Junior Data Analyst workflow, from raw data processing to executive presentation. The primary goal was to leverage transactional data from Boiza.Express.Coffee_Shop to deliver strategic insights for the new CEO, focusing on revenue maximization and operational efficiency.
+
+## Key Deliverables
+Processed Dataset: Cleaned and aggregated sales data, ready for visualization.
+
+Interactive Dashboard: Visualizations highlighting key metrics (Total Revenue, Peak Sales Intervals, Best-Selling Products).
+
+CEO Presentation: A PowerPoint deck summarizing methodology, key insights, and actionable recommendations (e.g., targeted marketing campaigns, stocking adjustments).
+
+## Tools Used
+Data Processing: Microsoft SQL Server (for cleaning, aggregation, and feature engineering).
+
+Visualization: Microsoft Excel/Power BI (for dashboard creation).
+
+Reporting: Microsoft PowerPoint (for executive briefing).
